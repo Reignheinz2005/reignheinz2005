@@ -9,24 +9,7 @@ st.subheader("Hi, I am Reinzler")
 st.title("A Students from SNSU")
 st.write("I am passionate to learn from this amazing school")
 
-# ---- WHAT I DO ----
-with st.container():
-  st.write("---")
-  left_column, right_column = st.columns(2)
-  with left_column:
-    st.header("What I do")
-    st.write("##")
-    st.write(
-        """
-        On my journey of being a student i will show you the beautiful place to learn from this school for people that want to learn from this university:
-        REQUIREMENTS TO ENROLL:
-        - 2x2 pic
-        - birth certificate
-        - good moral and report card
 
-        If you have any further question just message me in my Github Acc:
-        """
-    
     
         
   

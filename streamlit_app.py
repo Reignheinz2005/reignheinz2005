@@ -26,7 +26,7 @@ with st.container():
 
         If you have any further question just message me in my Fb acc: Reign Heinz Jeisler Egnalig
         """
-    )
+    
     
         
   

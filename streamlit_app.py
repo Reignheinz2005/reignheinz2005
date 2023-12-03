@@ -18,14 +18,4 @@ with st.container():
     st.write("##")
     st.write(
         """
-        On my journey of being a student i will show you the beautiful place to learn from this school for people that want to learn from this university:
-        REQUIREMENTS TO ENROLL:
-        - 2x2 pic
-        - birth certificate
-        - good moral and report card
-
-        If you have any further question just message me in my Fb acc: Reign Heinz Jeisler Egnalig or my Github Acc.
-        """
-    )
-    st.write("[My Github Account >](https://github.com/Reignheinz2005/reignheinz2005/blob/main/streamlit_app.py")
-
+        

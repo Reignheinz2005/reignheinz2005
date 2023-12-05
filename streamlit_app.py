@@ -1,7 +1,14 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Multipage App",
+    page_icon=":tada:",
+)
+
+st.title("Main Page")
+st.sidebar.success("Select a page above.")
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title= "Multipage App", "My Webpage", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
 # ---- HEADER SECTION ----
 with st.container():

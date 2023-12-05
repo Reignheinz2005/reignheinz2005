@@ -17,15 +17,14 @@ with st.container():
     st.header("What I do")
     st.write("##")
     st.write()
-      """
-      
-      On his youtube channel we will learn to make website using python, check his youtube tutorial to people who:
-      - are willing to learn python 
-      - are struggling to their projects
-      - are lack of knowledge about python 
+        """
+        On his youtube channel we will learn to make website using python, check his youtube tutorial to people who:
+        - are willing to learn python 
+        - are struggling to their projects
+        - are lack of knowledge about python 
 
-      subscribe to his youtube channel & turn on the notifications bell
-      """
+        subscribe to his youtube channel & turn on the notifications bell
+        """
    )
    st.write("[Youtube Channel >](https://youtube.com/c/CodingIsFun)")
 

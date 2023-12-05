@@ -17,6 +17,7 @@ with st.container():
     st.header("What I do")
     st.write("##")
     st.write()
+      """
       
       On his youtube channel we will learn to make website using python, check his youtube tutorial to people who:
       - are willing to learn python 

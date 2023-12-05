@@ -25,6 +25,11 @@ with st.container():
 
       subscribe to his youtube channel & turn on the notifications bell
       """
+   )
+   st.write("[Youtube Channel >](https://youtube.com/c/CodingIsFun)")
+
+
+   
 
 
         

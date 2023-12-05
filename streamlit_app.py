@@ -18,7 +18,7 @@ with st.container():
     st.write("##")
     st.write()
       
-      So if you want to learn python & streamlit check his youtube tutorials for people who:
+      On his youtube channel we will learn to make website using python & streamlit  check his youtube tutorials for people who:
       - are willing to learn python 
       - are struggling to their projects
       - are lack of knowledge about python 

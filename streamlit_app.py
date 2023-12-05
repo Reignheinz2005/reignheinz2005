@@ -1,12 +1,5 @@
 import streamlit as st
 
-st.set_page_config(
-    page_title="Multipage App",
-    page_icon=":tada:",
-)
-
-st.title("Main Page")
-st.sidebar.success("Select a page above.")
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
@@ -24,6 +17,14 @@ with st.container():
     st.header("What I do")
     st.write("##")
     st.write()
+      """
+      So if you want to learn python and streamlit check his youtube tutorials for people who:
+      - are willing to learn python 
+      - are struggling to their projects
+      - are lack of knowledge about python 
+
+      subscribe to his youtube channel and turn on the notifications bell
+      """
 
 
         

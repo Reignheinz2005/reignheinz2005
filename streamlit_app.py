@@ -18,12 +18,12 @@ with st.container():
     st.write("##")
     st.write()
       
-      So if you want to learn python and streamlit check his youtube tutorials for people who:
+      So if you want to learn python & streamlit check his youtube tutorials for people who:
       - are willing to learn python 
       - are struggling to their projects
       - are lack of knowledge about python 
 
-      subscribe to his youtube channel and turn on the notifications bell
+      subscribe to his youtube channel & turn on the notifications bell
       """
 
 

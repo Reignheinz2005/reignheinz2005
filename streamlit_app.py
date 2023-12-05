@@ -17,7 +17,7 @@ with st.container():
     st.header("What I do")
     st.write("##")
     st.write()
-      """
+      
       So if you want to learn python and streamlit check his youtube tutorials for people who:
       - are willing to learn python 
       - are struggling to their projects

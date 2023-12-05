@@ -23,6 +23,6 @@ with st.container():
   with left_column:
     st.header("What I do")
     st.write("##")
-    st.write(
+    st.write()
         """
         

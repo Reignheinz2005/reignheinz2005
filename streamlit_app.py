@@ -8,6 +8,7 @@ st.set_page_config(
 
 st.title("Main Page")
 st.sidebar.success("Select a page above.")
+
 import streamlit as st
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/

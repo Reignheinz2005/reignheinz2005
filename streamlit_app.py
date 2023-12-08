@@ -1,5 +1,15 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Multipage App",
+    page_icon="👋",
+
+)
+
+st.title("Main Page")
+st.sidebar.success("Select a page above.")
+import streamlit as st
+
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 

@@ -16,8 +16,8 @@ with st.container():
   with left_column:
     st.header("What I do")
     st.write("##")
-    st.write()
-        
+    st.write()(
+        """
   on his youtube channel we will learn to make website using python, check his youtube tutorial to people who:
         - are willing to learn python 
         - are struggling to their projects
